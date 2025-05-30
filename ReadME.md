@@ -1,3 +1,4 @@
+https://github.com/user-attachments/assets/6f2f5513-28de-41e0-85fc-deab661f927f
 # 🗺️ Side Determination & Card Flip Game 🃏
 
 ## 📖 Overview
