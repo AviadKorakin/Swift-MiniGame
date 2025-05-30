@@ -1,10 +1,3 @@
-//
-//  ReadME.md
-//  HW1+2
-//
-//  Created by Aviad on 30/05/2025.
-//
-
 # 🗺️ Side Determination & Card Flip Game 🃏
 
 ## 📖 Overview
