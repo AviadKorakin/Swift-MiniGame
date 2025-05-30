@@ -6,6 +6,11 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		B25EE7792DE9B92C00A01077 /* ReadME.md in Resources */ = {isa = PBXBuildFile; fileRef = B25EE7782DE9B91E00A01077 /* ReadME.md */; };
+		B25EE77B2DE9B9CC00A01077 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = B25EE77A2DE9B9C400A01077 /* LICENSE */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		B25EE6F92DE31E4500A01077 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +32,8 @@
 		B25EE6E82DE31E4300A01077 /* HW1+2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HW1+2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B25EE6F82DE31E4500A01077 /* HW1+2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "HW1+2Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B25EE7022DE31E4500A01077 /* HW1+2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "HW1+2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B25EE7782DE9B91E00A01077 /* ReadME.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ReadME.md; sourceTree = "<group>"; };
+		B25EE77A2DE9B9C400A01077 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +82,8 @@
 		B25EE6DF2DE31E4300A01077 = {
 			isa = PBXGroup;
 			children = (
+				B25EE77A2DE9B9C400A01077 /* LICENSE */,
+				B25EE7782DE9B91E00A01077 /* ReadME.md */,
 				B25EE6EA2DE31E4300A01077 /* HW1+2 */,
 				B25EE6FB2DE31E4500A01077 /* HW1+2Tests */,
 				B25EE7052DE31E4500A01077 /* HW1+2UITests */,
@@ -212,6 +221,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B25EE77B2DE9B9CC00A01077 /* LICENSE in Resources */,
+				B25EE7792DE9B92C00A01077 /* ReadME.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
