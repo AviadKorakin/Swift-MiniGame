@@ -30,8 +30,7 @@ This is a SwiftUI-based iOS app that determines which side of the world you’re
 2. Open the project in Xcode:
 
    ```bash
-   cd your-repo-name
-   open SideDeterminationGame.xcodeproj
+   open HW1+2.xcodeproj
    ```
 3. Run the app on a simulator or device.
 
